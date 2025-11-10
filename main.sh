@@ -1,0 +1,2 @@
+good morning
+echo " hello"
